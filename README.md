@@ -1,5 +1,7 @@
 # Bug Report for Piccolo ORM
 
+> Update: fixed in https://github.com/piccolo-orm/piccolo/pull/1112
+
 ## Repduce the bug
 
 ```python
